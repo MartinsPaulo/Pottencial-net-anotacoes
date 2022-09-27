@@ -1,0 +1,15 @@
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\bin\Debug\net6.0\ExemploArrays.exe
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\bin\Debug\net6.0\ExemploArrays.deps.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\bin\Debug\net6.0\ExemploArrays.runtimeconfig.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\bin\Debug\net6.0\ExemploArrays.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\bin\Debug\net6.0\ExemploArrays.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.csproj.AssemblyReference.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.AssemblyInfoInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.AssemblyInfo.cs
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\refint\ExemploArrays.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ExemploArrays.genruntimeconfig.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\ExemploArrays\obj\Debug\net6.0\ref\ExemploArrays.dll
