@@ -1,0 +1,15 @@
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\bin\Debug\net6.0\aulas.exe
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\bin\Debug\net6.0\aulas.deps.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\bin\Debug\net6.0\aulas.runtimeconfig.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\bin\Debug\net6.0\aulas.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\bin\Debug\net6.0\aulas.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.csproj.AssemblyReference.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.AssemblyInfoInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.AssemblyInfo.cs
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.csproj.CoreCompileInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\refint\aulas.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\aulas.genruntimeconfig.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\PropriedadesMetodosConstrutores\obj\Debug\net6.0\ref\aulas.dll
