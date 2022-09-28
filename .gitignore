@@ -1,0 +1,4 @@
+#Ignorar todas subpastas de debug
+/obj/
+/ExemploArrays/obj
+/PropriedadesMetodosConstrutores/obj
