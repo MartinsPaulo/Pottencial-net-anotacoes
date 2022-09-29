@@ -1,4 +1,5 @@
 ﻿using PropriedadesMetodosConstrutores.Models;
+using System.Globalization;
 
 Pessoa p1 = new Pessoa("Paulo","Martins");
 //Pessoa p1 = new Pessoa(nome: "Paulo", sobrenome: "Martins");
@@ -16,12 +17,14 @@ cursoDeIngles.AdicionarAluno(p2);
 Console.WriteLine($"Alunos do curso de: {cursoDeIngles.Nome}");
 cursoDeIngles.ListarAlunos();
 
+//Valor monetario
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");//pt-BR e etcs
 
+decimal valorMonetario = 1232.40M;
 
-
-
-
-
+Console.WriteLine($"{valorMonetario:C}");
+Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")));
+Console.WriteLine(valorMonetario.ToString("C1")); //c(n) n= numero de casa decimais
 
 
 
