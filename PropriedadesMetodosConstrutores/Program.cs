@@ -1,8 +1,7 @@
 ﻿using PropriedadesMetodosConstrutores.Models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Paulo";
-p1.Sobrenome = "Martins";
+Pessoa p1 = new Pessoa("Paulo","Martins");
+//Pessoa p1 = new Pessoa(nome: "Paulo", sobrenome: "Martins");
 
 Pessoa p2 = new Pessoa();
 p2.Nome = "Giovanna";
