@@ -1,5 +1,4 @@
 #Ignorar todas subpastas de debug
-bin/
-bin/*/
-ExemploArrays/bin/*
-PropriedadesMetodosConstrutores/bin/*
+/bin/
+/ExemploArrays/bin
+/PropriedadesMetodosConstrutores/bin
