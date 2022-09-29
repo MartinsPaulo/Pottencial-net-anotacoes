@@ -1,0 +1,24 @@
+using PropriedadesMetodosConstrutores.Models;
+using System.Globalization;
+
+Stack<int> pilha = new Stack<int>();
+
+pilha.Push(2);
+pilha.Push(4);
+pilha.Push(6);
+pilha.Push(8);
+
+Console.WriteLine("Itens da pilha:");
+foreach (int item in pilha)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine($"Removendo o elemnto: {pilha.Pop()}");
+pilha.Push(10);
+
+Console.WriteLine("Itens da pilha:");
+foreach (int item in pilha)
+{
+    Console.WriteLine(item);
+}

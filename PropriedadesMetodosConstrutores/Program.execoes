@@ -1,6 +1,8 @@
 using PropriedadesMetodosConstrutores.Models;
 using System.Globalization;
 
+new ExemploExcecao().Metodo1();
+
 try
 {
     String[] linhas = File.ReadAllLines("Arquivosdsada/arquivoLeitura.txt");
