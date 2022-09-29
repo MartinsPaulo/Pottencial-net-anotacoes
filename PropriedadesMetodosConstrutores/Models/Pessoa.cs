@@ -24,7 +24,7 @@ namespace PropriedadesMetodosConstrutores.Models
         {
 
             get => _nome.ToUpper(); //body expression
-            /*
+            /* Equivale:
             get
             {
                 return _nome.ToUpper();
