@@ -1,40 +1,15 @@
 using MetodosConstrutoresEstruturaDeDados.Models;
 using System.Globalization;
 
-(int Id, string Nome, string Sobrenome,decimal Altura) tupla = (1, "Paulo", "Martins", 1.83M);
-ValueTuple<int,string, string, decimal> outroExemploTupla = (1, "Paulo", "Martins", 1.83M);
-var outroExemploTupla2 = Tuple.Create(1, "Paulo", "Martins", 1.83M);
+Pessoa p1 = new Pessoa("Paulo", "Martins");
 
-Console.WriteLine($"Id: {outroExemploTupla.Item1}");
-Console.WriteLine($"Nome: {outroExemploTupla.Item2}");
-Console.WriteLine($"Sobrenome: {outroExemploTupla.Item3}");
-Console.WriteLine($"Altura: {outroExemploTupla.Item4}");
+(string nome, String sobrenome) = p1;
 
-Console.WriteLine("------------------------------------");
+Console.WriteLine($"{nome} {sobrenome}");
 
-Console.WriteLine($"Id: {tupla.Id}");
-Console.WriteLine($"Nome: {tupla.Nome}");
-Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
-Console.WriteLine($"Altura: {tupla.Altura}");
+//IF TERNARIO
 
+int numero = 14;
+bool ehPar = numero % 2 == 0;
 
-Console.WriteLine("------------------------------------");
-Console.WriteLine("Lendo arquivo: \n");
-LeituraArquivo arquivo = new LeituraArquivo();
-
-var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
-//Se você quiser que uma informação não venha na tupla, pode usar o "descartes" que seria pedir para não trazer a informação na tupla
-//Exemplo de descartes na variavel quantidadeLinhas
-//var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
-
-if (sucesso)
-{
-    Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
-    foreach(string linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-else{
-    Console.WriteLine("Não foi possível ler o arquivo");
-}
+Console.WriteLine($"O número é {numero} é " + (ehPar ? "par" : "ímpar"));
