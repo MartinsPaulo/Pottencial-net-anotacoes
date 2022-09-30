@@ -23,6 +23,9 @@ Console.WriteLine("Lendo arquivo: \n");
 LeituraArquivo arquivo = new LeituraArquivo();
 
 var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+//Se você quiser que uma informação não venha na tupla, pode usar o "descartes" que seria pedir para não trazer a informação na tupla
+//Exemplo de descartes na variavel quantidadeLinhas
+//var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
 if (sucesso)
 {
