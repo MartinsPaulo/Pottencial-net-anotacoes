@@ -1,4 +1,4 @@
-﻿using PropriedadesMetodosConstrutores.Models;
+﻿using MetodosConstrutoresEstruturaDeDados.Models;
 using System.Globalization;
 
 Pessoa p1 = new Pessoa("Paulo","Martins");
