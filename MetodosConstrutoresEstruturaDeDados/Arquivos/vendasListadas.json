@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material de escritório",
+    "Preco": 35.00
+  },
+  {
+    "Id": 1,
+    "Produto": "Material de aula",
+    "Preco": 40.00
+  }
+]
