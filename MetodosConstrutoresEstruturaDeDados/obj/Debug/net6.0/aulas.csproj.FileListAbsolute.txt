@@ -28,3 +28,5 @@ C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeD
 C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeDados\bin\Debug\net6.0\aulas.pdb
 C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeDados\obj\Debug\net6.0\aulas.genruntimeconfig.cache
 C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeDados\obj\Debug\net6.0\ref\aulas.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeDados\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\MetodosConstrutoresEstruturaDeDados\obj\Debug\net6.0\aulas.csproj.CopyComplete

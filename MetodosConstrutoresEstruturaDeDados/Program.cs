@@ -1,15 +1,11 @@
 using MetodosConstrutoresEstruturaDeDados.Models;
 using System.Globalization;
+using Newtonsoft.Json;
 
-Pessoa p1 = new Pessoa("Paulo", "Martins");
+Venda v1 = new Venda(1, "Material de escritório", 25.00M);
 
-(string nome, String sobrenome) = p1;
+string serializado = JsonConvert.SerializeObject(v1);
+string serializadoIdentado = JsonConvert.SerializeObject(v1, Formatting.Indented);
 
-Console.WriteLine($"{nome} {sobrenome}");
-
-//IF TERNARIO
-
-int numero = 14;
-bool ehPar = numero % 2 == 0;
-
-Console.WriteLine($"O número é {numero} é " + (ehPar ? "par" : "ímpar"));
+Console.WriteLine(serializado);
+Console.WriteLine(serializadoIdentado);
