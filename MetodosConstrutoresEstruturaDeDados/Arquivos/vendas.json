@@ -1,5 +1,6 @@
 {
   "Id": 1,
   "Produto": "Material de escritório",
-  "Preco": 35.00
+  "Preco": 35.00,
+  "DataVenda": "2022-10-01T15:25:55.795706-03:00"
 }
