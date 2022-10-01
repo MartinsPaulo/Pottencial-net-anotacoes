@@ -2,10 +2,16 @@ using MetodosConstrutoresEstruturaDeDados.Models;
 using System.Globalization;
 using Newtonsoft.Json;
 
-dynamic variavelDinamica = 4;
 
-Console.WriteLine($"Tipo de variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}  ");
+MeuArray<int> arrayInteiro = new MeuArray<int>();
 
-variavelDinamica = 20.40M;
+arrayInteiro.AdicionarElementoArray(30);
 
-Console.WriteLine($"Tipo de variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}  ");
+Console.WriteLine(arrayInteiro[0]);
+
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("Olha uma string");
+
+Console.WriteLine(arrayString[0]);
