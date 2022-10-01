@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bx3VHU2kDXQQ1kJ4eI3pShy6DuNQ2FXLkTlhZXydu1bObGHkfvBygEA8F6esRca5vSlpUrHDt1zhRL9fkmyvAg==",
+  "dgSpecHash": "f05Jf6wr8adg2zHXS4iQb1EPHFP9RLA2x081eWCNeJgKEOuudBtXcC79defQ6BxR95vnjqBmZ1w3iYD8fVTvig==",
   "success": true,
   "projectFilePath": "C:\\Users\\pgsmartins\\Desktop\\MyOcean\\dotnet\\aulas\\MetodosConstrutoresEstruturaDeDados\\aulas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pgsmartins\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
