@@ -1,0 +1,15 @@
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\bin\Debug\net6.0\POO.exe
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\bin\Debug\net6.0\POO.deps.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\bin\Debug\net6.0\POO.runtimeconfig.json
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\bin\Debug\net6.0\POO.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\bin\Debug\net6.0\POO.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.csproj.AssemblyReference.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.AssemblyInfoInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.AssemblyInfo.cs
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\refint\POO.dll
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.pdb
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\POO.genruntimeconfig.cache
+C:\Users\pgsmartins\Desktop\MyOcean\dotnet\aulas\POO\obj\Debug\net6.0\ref\POO.dll
