@@ -1,16 +1,15 @@
 using POO.Models;
 
-Aluno a1 = new Aluno();
-a1.Nome = "Paulo";
-a1.Idade = 25;
-a1.Nota = 10;
+Corrente c = new Corrente();
 
+c.Creditar(500);
+c.ExibirSaldo();
+
+Pessoa p1 = new Pessoa("Paulo");
+Aluno a1 = new Aluno("Gabriel");
 a1.Apresentar();
 
+Professor prof1 = new Professor(); //posso não passar nada aqui, por causa das ALTERAÇÕES NA linha 10 da classe Professor e Pessoa
+                                    // Assim tem um "override" dos construtores 
 
-Professor p1 = new Professor();
-p1.Nome = "Marcão";
-p1.Idade = 30;
-p1.Salario = 1000;
-
-p1.Apresentar();
+                                    
