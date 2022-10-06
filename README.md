@@ -13,3 +13,12 @@ Na pasta "MetodosConstrutoresEstruturaDeDados" existe arquivos de aprendizado ei
 Além disto foi aprendido sobre configuração do ambiente visual estudio, sintaxe de dados, tipos de operadores, operadores aritméticos, mas não constam nos arquivos.
 
 Também tive um aprendizado sobre o C# usa pilhas (Stack e Heap) para armezenar os valores das variaveis na memória e como são limpados pelo Garbage Collector. 
+
+## Módulo - POO
+Na pasta "POO" existe arquivos de aprendizado ein:
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Classe e método selados
+- Classe objeto
+- Interfaces
