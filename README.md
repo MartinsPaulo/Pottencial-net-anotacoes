@@ -15,6 +15,7 @@ Além disto foi aprendido sobre configuração do ambiente visual estudio, sinta
 Também tive um aprendizado sobre o C# usa pilhas (Stack e Heap) para armezenar os valores das variaveis na memória e como são limpados pelo Garbage Collector. 
 
 ## Módulo - POO
+Na pasta "POO" existe arquivos de aprendizado ein:
 - Encapsulamento
 - Herança
 - Polimorfismo
